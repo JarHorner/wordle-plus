@@ -14,7 +14,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/6LetterGame.unity
     guid: f461ad0b24ac92f498be00ac44df1d77
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/7LetterGame.unity
     guid: a1049ed92327d234887d014cb7dcc4b6
   m_configObjects: {}
